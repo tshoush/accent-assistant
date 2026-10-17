@@ -1,0 +1,2 @@
+# Engineering contract
+Build → test → diagnose → fix → rebuild → retest until acceptance criteria pass. Never report unexecuted tests as passed. Use public Apple APIs only. Do not fake cellular call capture, VoIP connectivity, permissions, or AI processing. Prefer small verifiable changes, regression tests, privacy-by-default and clear blockers. Keep CI green before merge. Real device calling tests are mandatory before release.
